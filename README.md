@@ -1,1 +1,1 @@
-# YoutubeAdSkip
+# YoutubeAdSkip-Extension
